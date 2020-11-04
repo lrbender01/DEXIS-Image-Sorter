@@ -1,5 +1,5 @@
-# Dexis-Image-Sorter
-Python script to sort unnamed Dexis file images (.DEX) by associated patient name into target directory.
+# DEXIS-Image-Sorter
+Python script to sort unnamed DEXIS file images (.DEX) by associated patient name into target directory.
 
 Takes source and target directories and automatically creates/updates folders for every patient.
 Leaves source directory intact.
